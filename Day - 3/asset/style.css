@@ -1,0 +1,18 @@
+#h1{
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 600px;
+}
+#span{
+    color: crimson;
+    
+}
+body{   
+    background-image: linear-gradient(to right, white , pink);
+}
+body2{
+    background-image: linear-gradient(to right, white light green);
+}
+
+
+
