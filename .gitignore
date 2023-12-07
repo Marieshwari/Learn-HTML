@@ -12,6 +12,7 @@
 # Private Node Modules
 node_modules/
 creds.js
+.npm.init.js
 
 # Private Files
 *.json
